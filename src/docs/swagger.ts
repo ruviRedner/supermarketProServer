@@ -7,7 +7,7 @@ export const swaggerSpec = swaggerJSDoc({
       title: "SupermarketPro API",
       version: "1.0.0",
     },
-    servers: [{ url: "http://localhost:4000" }],
+    servers: [{ url: "https://supermarket-pro-server-ruvi-ruby7966-dev.apps.rm2.thpm.p1.openshiftapps.com" }],
     components: {
       securitySchemes: {
         bearerAuth: { type: "http", scheme: "bearer", bearerFormat: "JWT" },
