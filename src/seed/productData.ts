@@ -12,28 +12,28 @@ export const productsSeed = [
     category: "Dairy",
     price: 7.5,
     expiryDate: "2026-04-10",
-    imageUrl: "https://www.tnuva.co.il/wp-content/uploads/2026/02/7290000042435_Small.jpg",
+    imageUrl: "https://yastatic.net/avatars/get-grocery-goods/2805921/dde7ba00-c2e3-43f0-b5f4-a7dd79598c0c/464x464-origin",
   },
   {
     name: "Greek Yogurt 200g",
     category: "Dairy",
     price: 6.5,
     expiryDate: "2026-04-05",
-    imageUrl: "https://www.tnuva.co.il/wp-content/uploads/2026/02/72964422_Small.jpg",
+    imageUrl: "https://az-market.net/Cat_495623_2986.jpghttps://www.tnuva.co.il/wp-content/uploads/2026/02/72964422_Small.jpg",
   },
   {
     name: "Cottage Cheese 250g",
     category: "Dairy",
     price: 8.9,
     expiryDate: "2026-04-07",
-    imageUrl: "https://chen-chesed.com/wp-content/uploads/2018/03/003754-500x500.jpg",
+    imageUrl: "https://styleproductionpublic.blob.core.windows.net/files/560/FILE-20230104-16485RARL99H1Y17.jpg",
   },
   {
     name: "Gouda Cheese 200g",
     category: "Dairy",
     price: 14.9,
     expiryDate: "2026-04-01",
-    imageUrl: "https://www.tnuva.co.il/wp-content/uploads/2026/02/7290116931524_Small.jpg",
+    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290017065434-760350/7290017065434/2024-12-18T08-49-27-103Z.jpg",
   },
 
   // ===== Bakery =====
@@ -86,7 +86,7 @@ export const productsSeed = [
     category: "Produce",
     price: 11.9,
     expiryDate: "2026-04-23",
-    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/product-images/global/459022/1214534/large.jpg",
+    imageUrl: "https://storage.bhol.co.il/articles/651469_tumb_800X480.jpg",
   },
   {
     name: "Cucumbers 1kg",
@@ -130,7 +130,7 @@ export const productsSeed = [
     category: "Fish",
     price: 34.9,
     expiryDate: "2026-04-22",
-    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/product-images/global/3047029/961509/large.jpg",
+    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/product-images/1219/19608427/12338540/large.jpg",
   },
 
   // ===== Pantry =====
@@ -139,14 +139,14 @@ export const productsSeed = [
     category: "Pantry",
     price: 14.9,
     expiryDate: "2027-06-01",
-    imageUrl: "https://www.sugat.com/wp-content/uploads/2016/05/classic-basmati-rice.webp",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuq6cxfn7scMQuKD3YkKBlcnr3DAobS7Sew&s",
   },
   {
     name: "Pasta Penne 500g",
     category: "Pantry",
     price: 7.5,
     expiryDate: "2027-01-01",
-    imageUrl: "https://www.bishulim.co.il/sites/default/files/product_images_new/12323741_7290000069258.jpg",
+    imageUrl: "https://media.getmood.io/warehouse/dynamic/224205.jpg",
   },
   {
     name: "Olive Oil 750ml",
@@ -160,7 +160,7 @@ export const productsSeed = [
     category: "Pantry",
     price: 5.9,
     expiryDate: "2028-01-01",
-    imageUrl: "https://www.ayaakov.co.il/files/products/product223_image1_2021-12-21_15-00-34.jpg",
+    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1219/large/7290006439499.jpg?_a=1642101287425",
   },
 
   // ===== Frozen =====
@@ -176,7 +176,7 @@ export const productsSeed = [
     category: "Frozen",
     price: 14.9,
     expiryDate: "2026-10-01",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XX1Dp3BOBm6602SkIMy2I0Dxlgy9Rt9aDg&s",
+    imageUrl: "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/UEF56_Z_P_7296073170860_1.png",
   },
   {
     name: "Frozen Peas 1kg",
@@ -199,7 +199,7 @@ export const productsSeed = [
     category: "Snacks",
     price: 7.9,
     expiryDate: "2026-05-01",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdARm201S-2GUmTQHzV9X6_1tBjP2rNc-Zw&s",
+    imageUrl: "https://d3m9l0v76dty0.cloudfront.net/system/photos/4926118/large/1825e08a77ea178de55ae267eb2204eb.jpg",
   },
   {
     name: "Dark Chocolate 100g",
@@ -215,7 +215,7 @@ export const productsSeed = [
     category: "Drinks",
     price: 6.9,
     expiryDate: "2027-01-01",
-    imageUrl: "https://www.meyeden.co.il/sites/default/files/product_image/4_7.jpg",
+    imageUrl: "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1184/large/7290005896835-863444/7290005896835/2025-02-21T12-01-11-549Z.jpg",
   },
   {
     name: "Orange Juice 1L",
