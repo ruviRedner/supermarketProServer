@@ -5,7 +5,11 @@ import { productsSeed } from "../seed/productData.js";
 async function seedProducts() {
   await connectDb();
 
+  // 🧹 מחיקת כל המוצרים הקיימים
+  await ProductModel.deleteMany({});
+  console.log("🗑️ All products deleted");
 
+  // ➕ הכנסת הסיד החדש
   for (const p of productsSeed) {
     await ProductModel.create({
       name: p.name,
