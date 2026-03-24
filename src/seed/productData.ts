@@ -19,7 +19,7 @@ export const productsSeed = [
     category: "Dairy",
     price: 6.5,
     expiryDate: "2026-04-05",
-    imageUrl: "https://az-market.net/Cat_495623_2986.jpghttps://www.tnuva.co.il/wp-content/uploads/2026/02/72964422_Small.jpg",
+    imageUrl: "https://d3m9l0v76dty0.cloudfront.net/system/photos/16175502/large/75732a282c4bca21c1b8d6c7462781ef.jpg",
   },
   {
     name: "Cottage Cheese 250g",
